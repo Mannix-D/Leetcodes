@@ -1,0 +1,2 @@
+# Leetcodes
+open mind
